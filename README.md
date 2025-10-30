@@ -1,5 +1,5 @@
 # Java-Arrays-ArrayLists-and-LinkedLists
-
+bu depo;arrays,arraylists ve linkedlists yapıları kullanılarak oluşturulan örnekler içermektedir. bu yapıların detaylarını öğretmek amacıyla yazılmıştır.
 
 
 ---
