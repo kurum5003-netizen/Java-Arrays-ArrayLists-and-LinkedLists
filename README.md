@@ -1,1 +1,29 @@
 # Java-Arrays-ArrayLists-and-LinkedLists
+
+
+
+---
+
+## Örnek Projeler
+- Hafıza Tahmin Oyunu
+- Şarkı
+- Şehir Turu
+- Sudoku  Oyunu
+
+---
+
+## Öğrenilen Konular
+-arrays,arraylists ve linkedlists yapılarının detaylarını ve kullanım alanlarını öğrenmek
+-Nesneler ile kullanımına bakmak
+- Java nın dinamik yapısına giriş
+
+---
+
+## DEVELOPER
+**AD SOYAD :** _Hasan Berk Kurum_
+**GİT HUB :** https://github.com/kurum5003-netizen
+
+---
+
+## Lisans
+Bu proje açık kaynaklıdır. İsteyen herkes kodları inceleyebilir veya kendi projelerinde kullanabilir.
