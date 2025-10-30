@@ -13,8 +13,8 @@
 ---
 
 ## Öğrenilen Konular
--arrays,arraylists ve linkedlists yapılarının detaylarını ve kullanım alanlarını öğrenmek
--Nesneler ile kullanımına bakmak
+- arrays,arraylists ve linkedlists yapılarının detaylarını ve kullanım alanlarını öğrenmek
+- Nesneler ile kullanımına bakmak
 - Java nın dinamik yapısına giriş
 
 ---
