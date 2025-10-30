@@ -6,7 +6,7 @@ bu depo;arrays,arraylists ve linkedlists yapıları kullanılarak oluşturulan �
 
 ## Örnek Projeler
 - Hafıza Tahmin Oyunu
-- Şarkı
+- Şarkıcı Listesi
 - Şehir Turu
 - Sudoku  Oyunu
 
