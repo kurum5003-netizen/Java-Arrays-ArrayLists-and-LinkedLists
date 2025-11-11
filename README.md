@@ -8,7 +8,6 @@ bu depo;arrays,arraylists ve linkedlists yapıları kullanılarak oluşturulan �
 - Hafıza Tahmin Oyunu
 - Şarkıcı Listesi
 - Şehir Turu
-- Sudoku  Oyunu
 
 ---
 
